@@ -1,5 +1,5 @@
 # AzureTokenExtractor
-Extracts Azure authentication tokens from PowerShell process minidumps. More information on Azure authentication tokens and the process for using this tool, check out the corresponding blog post at https://www.lares.com/blog/hunting-azure-admins-for-vertical-escalation-part-2/.
+Extracts Azure authentication tokens from PowerShell process minidumps. More information on Azure authentication tokens and the process for using this tool, check out the corresponding blog post at [https://labs.lares.com/hunting-azure-admins-for-vertical-escalation-part-2/](https://labs.lares.com/hunting-azure-admins-for-vertical-escalation-part-2/).
 
 ## Usage
 ```
